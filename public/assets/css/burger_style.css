@@ -1,0 +1,36 @@
+body {
+	background: #f6d690;
+}
+
+#burger-img {
+	max-width: 300px;
+	margin-top: 20px;
+}
+
+
+#burger-h {
+	font-family: 'Carter One', cursive;
+	font-size: 60px;
+}
+
+.burger-text {
+	font-family: 'Patrick Hand SC';
+	font-size: 15px;
+}
+
+.burger-btn {
+	font-family: 'Patrick Hand SC';
+	font-size: 20px;
+}
+
+
+#devoured-text {
+	color: #98978b;
+	background-color: #f8f5f0
+}
+
+
+.uneaten-list, .eaten-list {
+	max-height: 300px;
+	overflow-y:auto;
+}
