@@ -9,4 +9,6 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Demo
 
-The demo of the burger eating application can be found [here]()
+The deployed heroku of the Eat-Da-Burger application can be found [here](https://tranquil-fjord-51508.herokuapp.com/)
+
+[Eat-Da-Burger Demo](https://www.youtube.com/watch?v=XHxB_Se_HBQ)
